@@ -10,7 +10,7 @@ print() # linha em branco
 
 # Processamento
 consumoMensal = (potencia * horasDia * 30) / 1000
-tarifa = float(0.78) # valor da tarifa em reais cobrado pela concessionária de energia
+tarifa = float(0.78) # valor da tarifa em reais
 custoMensal = consumoMensal * tarifa
 
 # Saída de dados
