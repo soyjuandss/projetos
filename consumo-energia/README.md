@@ -22,7 +22,7 @@ Para isso usuário precisa informar:
 
 ### 🧮 Consumo mensal
 
-O cálculo do consumo mensal é a potência do aparelho em watts (W) × tempo médio do uso diário em horas × 30 (dia/mês), dividido por 1000:
+O cálculo do consumo mensal é a potência do aparelho em watts (W) × tempo médio do uso diário, em horas × 30, dividido por 1000:
 
 ```
 consumo mensal = potência (W) * uso diário (h) * 30 / 1000
