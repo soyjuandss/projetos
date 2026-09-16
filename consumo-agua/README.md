@@ -1,4 +1,4 @@
-# Sistema de Classificação do Perfil de Consumo de Água
+# 💧 Sistema de Classificação do Consumo de Água
 
 Script simples em Python que classifica o perfil de consumo mensal de água de um imóvel com base no seu tipo (comercial, casa ou apartamento).
 
