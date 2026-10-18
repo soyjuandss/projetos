@@ -5,7 +5,7 @@ os.system("cls" if os.name == "nt" else "clear") # Limpa o terminal: Verifica o 
 from colorama import Fore, Style
 
 # Constante com a capacidade total do reservatório em litros.
-CAPACIDADE_RESERVATORIO = 50_000
+CAPACIDADE_RESERVATORIO = 30_000
 
 # Lista com as mensagens de cada nível.
 NIVEIS = [  # O índice 0 corresponde ao nível 1, o índice 1 ao nível 2 e assim por diante
